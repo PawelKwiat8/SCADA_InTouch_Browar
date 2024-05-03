@@ -3,9 +3,9 @@ Projekt w trakcie realizacji
 Wizualizacja typu SCADA do produkcji browaru
 
 # Technologie
-InTouch
--MatriconOPC.Simulation
--Matlab, Simulink
+- InTouch
+- MatriconOPC.Simulation
+- Matlab, Simulink
 
 # Panel HMI Kadzi zaciernej
 ![](HMI_KZ.PNG)
