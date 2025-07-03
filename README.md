@@ -1,7 +1,6 @@
 # SCADA_InTouch_Browar
-Projekt w trakcie realizacji 
 
-Wizualizacja typu SCADA do produkcji browaru
+Wizualizacja SCADA do produkcji browaru 
 
 # Technologie
 - InTouch
