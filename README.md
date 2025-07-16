@@ -18,3 +18,6 @@ Połączenie między wizualizacją a symulatorem zrealizowano za pomocą standar
 *   **Skonfigurowano kompleksowy system alarmów**, który wizualnie sygnalizował przekroczenia wartości granicznych i inne stany awaryjne bezpośrednio na schematach procesu.
 *   **Dodano funkcjonalność wyświetlania trendów historycznych**, co umożliwia analizę archiwalnych danych procesowych w formie wykresów.
 *   **Wprowadzono system logowania** z podziałem na poziomy dostępu (użytkownik, serwis), aby zabezpieczyć funkcje sterujące.
+
+
+[![dokumentacjia PDF](SCADA_Browar_Paweł_Kwiatkowski_Szymon_Gołas.pdf)]
